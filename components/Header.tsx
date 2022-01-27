@@ -8,7 +8,7 @@ function Header() {
           <Link href="/">
             <img
               className="w-44 object-contain"
-              src="https://i.imgur.com/IVcWEnd.png"
+              src="https://i.imgur.com/X3Ya0Cy.png"
               alt="logo"
             />
           </Link>
